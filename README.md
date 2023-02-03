@@ -6,7 +6,7 @@ My solution for QR code component challenge on [frontendmentor.io](frontendmento
 
 - [Solution](https://www.frontendmentor.io/solutions/card-with-htmlandcss-pbx38VZO1C)
 - [Challange](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- [Live Site](https://nepcen.github.io/Frontend-Mentor-QR-code-component/)
+- [Live Site](https://nepcen.github.io/QR-code-component/)
 
 ## Author
 
